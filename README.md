@@ -13,3 +13,10 @@ Attempt to map invalid json *rc: ```alias jqq='jq -Rr ". as \$line | try fromjso
   "a": 2
 }
 ```
+
+#Visual Studio Code extensions
+- Git History
+- Git Lens
+- Go
+- Org Mode
+- Sublime Text Keymap
